@@ -1,4 +1,4 @@
-#Simple Banking System
+# Simple Banking System
 
 A simple interactive Python-based banking system that allows users to check their balance, deposit money, withdraw money, and exit the program. This project is designed for beginners to understand basic user input handling, loops, and conditional statements in Python.
 
